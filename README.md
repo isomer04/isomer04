@@ -22,7 +22,7 @@
 
 <h2 align="left">Certificates:</h2>
 <ul>
-  <li>Web Developer</li>
+  <li>Full stack engineer</li>
   <li>JavaScript Programming</li>
     <li>Java Developer</li>
 
