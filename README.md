@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Isomer</h1>
-<p align="center">Full Software Engineer</p>
+<p align="center">Full Stack Software Engineer</p>
 
 <h2 align="left">Projects:</h2>
 <p align="left">Developer of website <a href="https://google.com">google.com</a>.</p>
