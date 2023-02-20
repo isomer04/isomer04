@@ -22,8 +22,8 @@
 
 <h2 align="left">Certificates:</h2>
 <ul>
-  <li>Full stack engineer</li>
-  <li>JavaScript Programming</li>
+  <li>Full Stack Engineer</li>
+  <li>JavaScript Developer</li>
     <li>Java Developer</li>
 
 </ul>
@@ -32,7 +32,13 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isomer04&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isomer04)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <a href="https://github.com/favna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isomer04&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isomer04&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
+  </a>
+</div>
 
 
 <h2 align="left">Connect with me:</h2>
