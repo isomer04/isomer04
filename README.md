@@ -2,7 +2,7 @@
 <p align="center">Full Stack Software Engineer</p>
 
 <h2 align="left">Projects:</h2>
-<p align="left">Developer of website <a href="https://google.com">google.com</a>.</p>
+<p align="left">Developer of website <a href="https://google.com"></a></p>
 
 ![](https://komarev.com/ghpvc/?username=isomer04)
 
