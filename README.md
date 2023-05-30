@@ -1,5 +1,10 @@
-<h1 align="center">Hello 👋, I'm Isomer</h1>
+<h1 align="center">👋 Hello, I'm Isomer! How may I assist you? </h1>
 <p align="center">Full Stack Software Engineer</p>
+<p align="center">
+  <a href="https://twitter.com/AmiIsomer"
+ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h_grasso" height="30" width="40" /></a>
+
+</p>
 
 <h2 align="left">Projects:</h2>
 <p align="left">Developer of website <a href="https://google.com"></a></p>
@@ -24,7 +29,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isomer04&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-<div>
+<div  >
   <a href="https://github.com/isomer04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isomer04&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
       <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isomer04&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
@@ -35,7 +40,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<div id="badges">
+<div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <a href="https://twitter.com/AmiIsomer">
