@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Isomer! How may I assist you? </h1>
+<h1 align="center">👋 Hello, I'm Isomer. How may I assist you? </h1>
 <p align="center">Full Stack Software Engineer</p>
 <p align="center">
   <a href="https://twitter.com/AmiIsomer"
