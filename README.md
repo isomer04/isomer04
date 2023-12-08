@@ -21,6 +21,7 @@
 <ul>
   <li>Full Stack Engineer</li>
   <li>JavaScript Developer</li>
+    <li>.NET Developer</li>
     <li>Java Developer</li>
 
 </ul>
