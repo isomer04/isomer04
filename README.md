@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hello, I'm Isomer. How may I assist you? </h1>
 <p align="center">Full Stack Software Engineer</p>
-<p align="center">
-  <a href="https://twitter.com/AmiIsomer"
- target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h_grasso" height="30" width="40" /></a>
 
-</p>
 
 <h2 align="left">Projects:</h2>
 <p align="left">Developer of website <a href="https://google.com"></a></p>
