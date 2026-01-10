@@ -42,11 +42,11 @@ Developer of website <a href="https://google.com"></a>
 
 ## :fire: My Stats :
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=isomer04&theme=dark&background=000000" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=isomer04&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isomer04&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark" height="180em"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/isomer04?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/isomer04?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/last-commit/isomer04/isomer04?style=for-the-badge" alt="Last Commit"/>
+</p>
 
 ---
 
